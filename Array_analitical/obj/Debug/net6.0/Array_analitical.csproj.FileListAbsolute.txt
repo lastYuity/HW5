@@ -1,0 +1,15 @@
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\bin\Debug\net6.0\Array_analitical.exe
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\bin\Debug\net6.0\Array_analitical.deps.json
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\bin\Debug\net6.0\Array_analitical.runtimeconfig.json
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\bin\Debug\net6.0\Array_analitical.dll
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\bin\Debug\net6.0\Array_analitical.pdb
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.csproj.AssemblyReference.cache
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.AssemblyInfoInputs.cache
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.AssemblyInfo.cs
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.csproj.CoreCompileInputs.cache
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.dll
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\refint\Array_analitical.dll
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.pdb
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\Array_analitical.genruntimeconfig.cache
+C:\Users\Серго\Desktop\HW\C#\Seminar3\Array_analitical\obj\Debug\net6.0\ref\Array_analitical.dll
